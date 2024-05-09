@@ -1,4 +1,5 @@
 ### Unity 드론 강화학습 프로젝트
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b552a82d-c413-4b83-85b8-802f5987230b/765787c2-9c3d-4f66-80fc-829266b1e968/Untitled.png)
 <br>
 
 ### 한 줄 소개
